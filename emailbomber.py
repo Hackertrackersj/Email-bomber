@@ -51,7 +51,7 @@ print '    '
 total = input('Number of send: ')
 
 smtp_server = 'smtp.gmail.com'
-port = 2222
+port = 587
 
 
 print ''
