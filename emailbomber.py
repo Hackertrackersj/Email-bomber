@@ -19,7 +19,7 @@ print '            #        Email Bomber ( Spamming Tool )         #       '
 print '            #                                               #       '
 print '            #                  Version 2.0                  #       '
 print '            #                                               #       '
-print '            #           Modified by : Mohin Paramasivam     #       '
+print '            #           Modified by : hacker tracker        #       '
 print '            #                                               #       '
 print '            #       Only for Educational Purposes !!        #       '
 print '            #                                               #       '
@@ -32,8 +32,8 @@ print '                                           '
 
 print '    '
 email = raw_input('Attacker Gmail Address : ')
-print '             '
-user = raw_input('Anonymous name : ')
+
+
 print '      '
 passwd = getpass.getpass('Password: ')
 
@@ -51,7 +51,7 @@ print '    '
 total = input('Number of send: ')
 
 smtp_server = 'smtp.gmail.com'
-port = 587
+port = 2222
 
 
 print ''
